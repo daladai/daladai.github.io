@@ -34,6 +34,7 @@ div.Introduction {
 	padding-left: 20px;  
 	padding-right: 20px;
 	padding-bottom: 10px;
+	font-size: 25px;
 	 }
 
 img{   
@@ -51,6 +52,7 @@ border-width: 5px;
 	border-radius: 50px;
 	padding-left: 20px;  
 	padding-right: 20px;
+	font-size: 25px;
 }
 
 div.Recently {
@@ -61,8 +63,13 @@ div.Recently {
 	border-bottom: 20px;
 	padding-left: 20px;  
 	padding-right: 20px;
+	padding-bottom: 20px;
+	font-size: 25px;
 }
 
+div.Recently-end {
+  clear: both; 
+}
 
 div.Passages {
 	border-width: 5px;  
@@ -72,4 +79,5 @@ div.Passages {
 	border-bottom: 20px;
 	padding-left: 20px;  
 	padding-right: 20px;
+	font-size: 20px;
 }
